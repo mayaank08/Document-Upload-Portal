@@ -1,0 +1,38 @@
+[
+  {
+    "firstName": "ST SC SR",
+    "lastName": "SY CN",
+    "licenseNo": "20240003256",
+    "expiryDate": "2024-06-25",
+    "address": "123 Main Street, City, State 12345",
+    "dob": "1990-01-15",
+    "submittedAt": "2025-12-02T05:54:26.445Z"
+  },
+  {
+    "firstName": "joe",
+    "lastName": "Doe",
+    "licenseNo": "DL123456789",
+    "expiryDate": "2025-12-31",
+    "address": "123 Main Street, City, State 12345",
+    "dob": "1990-01-15",
+    "submittedAt": "2025-12-02T05:59:43.183Z"
+  },
+  {
+    "firstName": "joe",
+    "lastName": "Doe",
+    "licenseNo": "DL123456789",
+    "expiryDate": "2025-12-31",
+    "address": "123 Main Street, City, State 12345",
+    "dob": "1990-01-15",
+    "submittedAt": "2025-12-02T06:02:04.063Z"
+  },
+  {
+    "firstName": "Mayank",
+    "lastName": "Kumar",
+    "licenseNo": "RJ40 20240003256",
+    "expiryDate": "2045-08-19",
+    "address": "Partapur, IBAARARY 8 Jaitpur Behror Alwar Rajasthan,, 301702",
+    "dob": "2005-08-20",
+    "submittedAt": "2025-12-02T07:28:28.606Z"
+  }
+]
